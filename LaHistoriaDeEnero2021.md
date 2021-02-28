@@ -1,6 +1,6 @@
-### La historia de enero 2021
+# La historia de enero 2021
 
-La pandemia seguía distanciándonos físicamente, pero logramos conectarnos a través del internet ☺️. Esto cambió cuando el 2021 nos trajo algo 😒: la actualización de términos de servicio de WhatsApp.
+La pandemia seguía distanciándonos físicamente, pero durante el 2020 logramos conectarnos a través del internet ☺️. Esto cambió cuando el 2021 nos trajo algo 😒: la actualización de términos de servicio de WhatsApp.
 
 <img width="50%" src="https://user-images.githubusercontent.com/4410510/109436063-4bbac300-79e3-11eb-8fde-7ba45cdb86cd.jpg">
 

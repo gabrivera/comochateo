@@ -1,5 +1,5 @@
 # Cómo Chateo
-¿Cómo así que WhatsApp nos espía? ¿Hay evidencia? ¿Estoy en riesgo? Si sí, ¿qué puedo hacer?
+¿Cómo así que WhatsApp nos espía? ¿Hay evidencia? ¿Estoy en riesgo? Si sí, ¿qué puedo hacer? Acá, en **3 minutos**, te voy a dar las respuestas.
 
 # Antes que nada, ¡bienvenido! Empieza por aquí:
 Me agrada verte acá ☺️, con un ojo crítico y con el deseo de protegerte a ti, a tus colegas, amigos y familiares. Con tanta desinformación y las crisis que hemos estado viviendo, necesitamos información verídica. Nada de "El Blog de Pepito" ni tuits del "@netcenter". No. Fuentes confiables. Con esa información, vamos a saber dónde estamos y cómo protegernos.

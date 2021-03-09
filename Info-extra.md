@@ -12,3 +12,9 @@ Pero, ¿qué uso en vez? Necesitamos un app de mensajería que no tenga un model
 ¡Signal es libre y de fuente abierta, además de es
 
 La única manera de garantizar al 100% que no se filtre tu información, es no tener información que se filtre. **Si usas un app de mensajería que no te vigile constantemente, no hay información tuya que se pueda filtrar** (o sea, estás seguro).
+
+# La información que WhatsApp recolecta puede causar que te hackeen e, increíblemente, ciertos desastres políticos
+Ya establecimos que WhatsApp y Facebook te vigilan constantemente. Eso significa que guardan *muchísima* información de ti. El que una empresa guarde información de ti es peligroso, porque [la podrían *hackear*](https://youtu.be/fHhNWAKw0bY), como le pasó a Facebook en el [2020](https://www.forbes.com/sites/zakdoffman/2020/04/20/facebook-users-beware-hackers-just-sold-267-million-of-your-profiles-for-540/), en el [2019](https://www.cbsnews.com/news/millions-facebook-user-records-exposed-amazon-cloud-server/), en el [2018](https://www.bbc.com/news/technology-45686890), y muchísimas veces más [en años anteriores](https://selfkey.org/facebooks-data-breaches-a-timeline/).
+
+Pero además, el modelo de negocios de Facebook está diseñado para que haya más desinformación. Al alimentar tu perfil de Facebook con tu uso de WhatsApp, estás mejorando los algoritmos de Facebook para que maximicen tu uso en la plataforma y te expongan a desinformación. Esto está muy bien documentado por [académicos, activistas, y los mismísimos creadores de estas tecnologías (incluyendo trabajadores de Google, Facebook, y Twitter)](https://www.thesocialdilemma.com/the-dilemma/).
+

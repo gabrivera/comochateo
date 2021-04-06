@@ -46,3 +46,5 @@
 > Así es que nos pasamos a Signal, un app que nos conecta de manera segura y ética ☺️.
 
 <img width="50%" src="https://user-images.githubusercontent.com/4410510/109436669-4317bc00-79e6-11eb-8493-dde07cdce1e8.png">
+
+Para volver a la página principal, [haz click acá](https://github.com/gabrivera/comochateo).

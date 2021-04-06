@@ -94,4 +94,4 @@ Ahora, sabiendo todo estos *hechos basados en la evidencia*, te invito a leer [l
 
 Si ya la conoces, vale la pena recordar que Signal [fue respaldada por **Elon Musk**, el hombre más rico del mundo (quien dijo "Usen Signal")](https://twitter.com/signalapp/status/1349577579091566592); por **Edward Snowden**, el experto de seguridad que denunció las prácticas corruptas de la NSA; y por los **[40 millones de personas que descargaron el app en un solo día](https://twitter.com/signalapp/status/1349577579091566592)**!
 
-Para descargar Signal, [haz click acá](signal.org/install).
+Para descargar Signal, [haz click acá](https://signal.org/install/).
